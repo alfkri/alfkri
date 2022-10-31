@@ -59,9 +59,10 @@ function myProfile() {
   <a href="https://colab.research.google.com" title="Google Collab">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
   </a>
+</div>
   
-  <br/>
+<br/>
   
-  <h1><h1/>
+<h1></h1>
   
-  <p>&#169; 2022 Muhammad Al Fikri</p>
+<p align="center">&#169; 2022 Muhammad Al Fikri</p>
