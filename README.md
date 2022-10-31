@@ -31,8 +31,6 @@ function myProfile() {
   </a>
 </p>
 
-<br/>
-
 <h2>🛠 Languages & Tools < / > </h2>
 
 <div>
