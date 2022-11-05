@@ -3,7 +3,7 @@
   <h3>Student at <a href="https://nurulfikri.ac.id/" title="STT Terpadu Nurul Fikri">STT Terpadu Nurul Fikri</a>, Indonesia</h3>
 </div>
 
-<h2>👨🏻‍💻 About Me</h2>
+## 👨🏻‍💻 About Me
 
 ```javascript
 
@@ -17,7 +17,7 @@ function myProfile() {
 }
 ```
 
-<h2>🤝🏻 Connect with Me</h2>
+## 🤝🏻 Connect with Me
 
 <p>
   <a href="https://instagram.com/alfkri_" title="Instagram">
@@ -33,7 +33,7 @@ function myProfile() {
 
 <br/>
 
-<h2>🛠 Languages & Tools < / > </h2>
+## 🛠 Languages & Tools 
 
 <div>
   <a href="https://www.python.org" title="Python">
@@ -61,7 +61,11 @@ function myProfile() {
   </a>
 </div>
   
-<br/>
+## :part_alternation_mark: Statistic   
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfkri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfkri&layout=compact&langs_count=8&theme=algolia"/>
+</p>
   
 <h1></h1>
   
