@@ -31,7 +31,6 @@ function myProfile() {
   </a>
 </p>
 
-<br/>
 
 ## 🛠 Languages & Tools 
 
