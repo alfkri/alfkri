@@ -59,9 +59,21 @@ function myProfile() {
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
   </a>
 </div>
-  
-## :part_alternation_mark: Statistic   
+
+<br/><br/>
+
+<details>
+  <summary>:zap: <strong>GitHub Stats</strong></summary>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfkri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</details>
+
+
+<details>
+  <summary>:zap: <strong>Most Used Languages</strong></summary>
+
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfkri&layout=compact&langs_count=8&theme=algolia"/>
+
+</details>
   
- <br/>
